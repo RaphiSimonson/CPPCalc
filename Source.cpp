@@ -1,4 +1,4 @@
-/* Beginning of iDTech final project, a basic calculator */
+/* Begin project */
 #include <iostream>
 #include <string>
 #include <Windows.h>
@@ -269,3 +269,4 @@ int main() {
 		}
 	}
 }
+/* End project */
